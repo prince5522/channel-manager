@@ -1,0 +1,1 @@
+:root{color-scheme:light}body[data-theme="dark"]{color-scheme:dark}body[data-font="serif"]{font-family:Georgia,serif}body[data-font="rounded"]{font-family:ui-rounded,"Trebuchet MS",sans-serif}body[data-motion="off"] *,body[data-motion="off"] *::before,body[data-motion="off"] *::after{animation:none!important;transition:none!important}
